@@ -10,10 +10,10 @@
 
 # Added configs and plugins
 
-nvim-lua/plenary.nvim
-kdheepak/lazygit.nvim
-PaterJason/cmp-conjure
-Olical/conjure
-guns/vim-sexp
-tpope/vim-sexp-mappings-for-regular-people
+- nvim-lua/plenary.nvim
+- kdheepak/lazygit.nvim
+- PaterJason/cmp-conjure
+- Olical/conjure
+- guns/vim-sexp
+- tpope/vim-sexp-mappings-for-regular-people
 
