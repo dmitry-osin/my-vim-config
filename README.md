@@ -7,13 +7,3 @@
 # Credits
 
 1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
-
-# Added configs and plugins
-
-- nvim-lua/plenary.nvim
-- kdheepak/lazygit.nvim
-- PaterJason/cmp-conjure
-- Olical/conjure
-- guns/vim-sexp
-- tpope/vim-sexp-mappings-for-regular-people
-
