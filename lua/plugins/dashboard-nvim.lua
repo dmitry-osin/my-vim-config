@@ -10,21 +10,26 @@ return {{
                 },
                 shortcut = {{
                     desc = "󰊳 Lazy",
-                    group = "@property",
+                    group = "@variable",
                     action = "Lazy update",
                     key = "u"
                 }, {
-                    icon = " ",
+                    icon = "󰥨 ",
                     icon_hl = "@variable",
                     desc = "Telescope",
-                    group = "Label",
+                    group = "@variable",
                     action = "Telescope find_files",
                     key = "f"
                 }, {
-                    desc = " Neotree",
-                    group = "DiagnosticHint",
+                    desc = " Neotree",
+                    group = "@variable",
                     action = "Neotree left toggle reveal",
                     key = "C n"
+                }, {
+                    desc = "󰊢 LazyGit",
+                    group = "@variable",
+                    action = "LazyGit",
+                    key = "g"
                 }}
             }
         })
